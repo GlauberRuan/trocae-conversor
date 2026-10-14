@@ -1,0 +1,6 @@
+
+pika
+sqlalchemy
+psycopg[binary]
+minio
+Pillow
