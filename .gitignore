@@ -1,0 +1,35 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Variáveis de ambiente e segredos
+.env
+.env.*
+!.env.example
+
+# Arquivos temporários
+*.log
+*.tmp
+*.temp
+
+# Arquivos de mídia gerados durante testes
+uploads/
+outputs/
+temp/
+
+# Configurações locais do editor
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
